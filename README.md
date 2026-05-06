@@ -2,8 +2,6 @@
 
 A responsive, theme-adaptive car companion app built with Flutter & Dart. Designed with a clean, modern UI focused on readability, smooth interactions, and production-ready layout architecture.
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
-
 ## ✨ Features
 - 🌓 **Light/Dark Mode** with system-adaptive status & navigation bars
 - 📱 **Fully Responsive** layout (mobile → tablet) using `LayoutBuilder` & flexible constraints
